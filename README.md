@@ -1,7 +1,5 @@
 # Conceal VPN
 
-![Conceal VPN](https://your-image-url.com/banner.png)
-
 **Conceal VPN** is a secure and private VPN application that utilizes **OpenVPN servers** from the **VPN Gate** project. Built with **Flutter**, it employs **GetX** for state management, **Hive** for caching, and integrates **Google Ads** for monetization.
 
 ## Features
@@ -64,9 +62,7 @@ We welcome contributions! Please follow these steps:
 5. Open a pull request
 
 ## Contact
-📧 **Your Email**: adilmulimani@gmail.com 
-
-
+📧 **Email**: adilmulimani@gmail.com
 ---
 
 Give a ⭐ if you like the project! 🚀
