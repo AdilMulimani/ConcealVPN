@@ -16,9 +16,12 @@
 
 ## Screenshots
 
-| Home Screen                                                  | Server Selection                                          | Connection Status                                 |
-|--------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------|
-| ![Home](C:\Users\lenovo\Desktop\Conceal\vpn%20connected.png) | ![Servers](C:\Users\lenovo\Desktop\Conceal\locations.png) | ![Status](C:\Users\lenovo\Desktop\Conceal\ip.png) |
+## Screenshots
+
+| Home Screen                                  | Server Selection                             | Connection Status                    |
+|----------------------------------------------|----------------------------------------------|--------------------------------------|
+| ![Home](assets/screenshots/vpnconnected.png) | ![Servers](assets/screenshots/locations.png) | ![Status](assets/screenshots/ip.png) |
+
 
 ## Installation
 
