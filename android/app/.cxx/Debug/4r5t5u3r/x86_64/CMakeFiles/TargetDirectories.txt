@@ -1,0 +1,2 @@
+F:/FreeVPN-App-Flutter-master/android/app/.cxx/Debug/4r5t5u3r/x86_64/CMakeFiles/edit_cache.dir
+F:/FreeVPN-App-Flutter-master/android/app/.cxx/Debug/4r5t5u3r/x86_64/CMakeFiles/rebuild_cache.dir
